@@ -5,6 +5,8 @@ As well as being able to use RGB or RGBA values for colors, Pygame has a dict, c
  challenge focuses on creating a color-picker tool that allows you to click on a color and see the color's name/s. This challenge is meant to be appropriate for pygamers of all skill levels; if you've
  found the previous challenges too difficult, this is a good chance to snag yourself some sweet flair.
  
+Github repo: https://github.com/reddit-pygame/color-picker-challenge
+
 ###How It Works
 
 The provided code is a minimal pygame app skeleton that handles creating and exiting a pygame window. There are also two dicts provided: NAME_TO_RGBA maps color-name keys to RGBA
