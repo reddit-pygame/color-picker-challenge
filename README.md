@@ -29,4 +29,4 @@ Add the ability to add and remove colors from a palette and save the palette as 
 #####It Takes All Sorts
 Sort the colors displayed to the screen. [Good article about color sorting with python examples](http://www.alanzucconi.com/2015/09/30/colour-sorting/)
 
-Good luck, have fun and feel free to ask for help if you need it.
+###Good luck, have fun and feel free to ask for help if you need it.
