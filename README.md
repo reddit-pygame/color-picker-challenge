@@ -2,8 +2,8 @@
 
 As well as being able to use RGB or RGBA values for colors, Pygame has a dict, color.THECOLORS,
  that maps color-name strings to RGBA values. These names can be passed to pygame.Color() instead of RGB/A values, for example, `pygame.Color("antiquewhite")`. This
- challenge focuses on creating a color-picker tool that allows you to click on a color and see the color's name/s. This challenge is meant to be appropriate for pygamers of all skill levels
- - if you've found the previous challenges too difficult, this is a good chance to snag yourself some sweet flair.
+ challenge focuses on creating a color-picker tool that allows you to click on a color and see the color's name/s. This challenge is meant to be appropriate for pygamers of all skill levels; if you've
+ found the previous challenges too difficult, this is a good chance to snag yourself some sweet flair.
  
 ###How It Works
 
